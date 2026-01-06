@@ -46,3 +46,12 @@ footer {
     text-align: center;
     padding: 15px;
 }
+label {
+  display: inline-block;
+  width: 80px;          
+  vertical-align: top;  
+}
+
+input, textarea {
+  width: 250px;
+}
