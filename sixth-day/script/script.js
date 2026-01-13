@@ -12,10 +12,11 @@ console.log("Is Student:",isStudent);
 //basic arithmetic operations       
 let a=5;
 let b=10;
-console.log("Sum:",a+b);
-console.log("Difference:",b-a);
-console.log("Product:",a*b);
-console.log("Quotient:",b/a);
+console.log("Addition:",a+b);
+console.log("Subtraction:",b-a);
+console.log("Multiplication:",a*b);
+console.log("Division:",b/a);
+
 
 //comparison operators
 console.log(5 == "5");   
